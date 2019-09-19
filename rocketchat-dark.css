@@ -548,3 +548,8 @@ body, .sidebar, .sidebar-light {
 .reply-preview {
    	background-color: #34373a !important;
   }
+
+/* ---Scrollbars--- */
+* ::-webkit-scrollbar {
+    background: rgba(205, 205, 205, 0.3) !important;
+}
